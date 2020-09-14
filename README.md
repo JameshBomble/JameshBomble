@@ -11,5 +11,8 @@ I am Jamesh Bomble. I am currently a 3rd year undergraduate at National Institut
 #### 👨🏻‍💻 Languages and Tools <br />
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/valohai/ml-logos/master/matplotlib.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobephotoshop.svg"></code>

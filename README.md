@@ -20,3 +20,6 @@ I am Jamesh Bomble. I am currently a 3rd year undergraduate at National Institut
 #### Competitive Programming Profile
 <a href="https://www.hackerrank.com/jameshb13" title='Hackerrank'>
     <img align="left" alt="Jamesh's hackerrank" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/hackerrank.svg" />
+</a>
+<a href="https://www.coursera.org/user/89b4ad80a2eedbb0363100fe1ef53b84" title='Coursera'>
+    <img align="left" alt="Jamesh's Coursera" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/coursera.svg" />
